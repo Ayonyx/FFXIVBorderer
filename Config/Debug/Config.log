@@ -1,0 +1,27 @@
+﻿Build started 9/5/2010 12:06:06 PM.
+     1>Project "D:\FFXIV\FFXIVBorderer\Config\Config.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Config.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Config.vcxproj -> D:\FFXIV\FFXIVBorderer\Debug\Config.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\FFXIV\FFXIVBorderer\Debug\Config.exe;#1" /manifest Config.exe.manifest Debug\Config.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Config.unsuccessfulbuild".
+         Touching "Debug\Config.lastbuildstate".
+     1>Done Building Project "D:\FFXIV\FFXIVBorderer\Config\Config.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.23

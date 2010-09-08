@@ -1,0 +1,32 @@
+﻿Build started 9/7/2010 9:31:47 PM.
+     1>Project "D:\FFXIV\FFXIVBorderer\Launcher\Launcher.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Launcher.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Launcher.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt Launcher.cpp /clr:nostdlib 
+         Launcher.cpp
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FFXIV\FFXIVBorderer\Release\Launcher.exe" /INCREMENTAL:NO /NOLOGO winmm.lib D3D9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Launcher.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\FFXIV\FFXIVBorderer\Release\Launcher.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\Launcher.res
+         Release\AssemblyInfo.obj
+         Release\Launcher.obj
+         Release\main.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         Launcher.vcxproj -> D:\FFXIV\FFXIVBorderer\Release\Launcher.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\FFXIV\FFXIVBorderer\Release\Launcher.exe;#1" /manifest Release\Launcher.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Launcher.unsuccessfulbuild".
+         Touching "Release\Launcher.lastbuildstate".
+     1>Done Building Project "D:\FFXIV\FFXIVBorderer\Launcher\Launcher.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.71

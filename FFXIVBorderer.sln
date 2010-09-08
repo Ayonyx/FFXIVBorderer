@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Config", "Config\Config.vcxproj", "{91D6E5AA-8680-467C-B257-EC1D0C97F007}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Launcher", "Launcher\Launcher.vcxproj", "{8CFF5F78-5B48-4C5F-BFE5-FF205E2C36F2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{E88C1F46-1066-41B6-9ECE-30F1E7A8710A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DECD513-8195-4F40-892D-05DD39C42B72}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Ayonyx\Pictures\xivborderer.ico = C:\Users\Ayonyx\Pictures\xivborderer.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D6E5AA-8680-467C-B257-EC1D0C97F007}.Debug|Win32.ActiveCfg = Release|Win32
+		{91D6E5AA-8680-467C-B257-EC1D0C97F007}.Debug|Win32.Build.0 = Release|Win32
+		{91D6E5AA-8680-467C-B257-EC1D0C97F007}.Release|Win32.ActiveCfg = Release|Win32
+		{91D6E5AA-8680-467C-B257-EC1D0C97F007}.Release|Win32.Build.0 = Release|Win32
+		{8CFF5F78-5B48-4C5F-BFE5-FF205E2C36F2}.Debug|Win32.ActiveCfg = Release|Win32
+		{8CFF5F78-5B48-4C5F-BFE5-FF205E2C36F2}.Debug|Win32.Build.0 = Release|Win32
+		{8CFF5F78-5B48-4C5F-BFE5-FF205E2C36F2}.Release|Win32.ActiveCfg = Release|Win32
+		{8CFF5F78-5B48-4C5F-BFE5-FF205E2C36F2}.Release|Win32.Build.0 = Release|Win32
+		{E88C1F46-1066-41B6-9ECE-30F1E7A8710A}.Debug|Win32.ActiveCfg = Debug
+		{E88C1F46-1066-41B6-9ECE-30F1E7A8710A}.Release|Win32.ActiveCfg = Release
+		{E88C1F46-1066-41B6-9ECE-30F1E7A8710A}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
