@@ -74,7 +74,7 @@ namespace FFXIVBorderer
 		{
 			while (true)
 			{
-				HWND WindowHandle = FindWindow(L"RAPTURE", L"FINAL FANTASY XIV Beta Version");
+				HWND WindowHandle = FindWindow(L"RAPTURE", L"FINAL FANTASY XIV");
 				if (WindowHandle != 0)
 				{
 					LONG OldExStyle = GetWindowLong(WindowHandle, GWL_EXSTYLE);

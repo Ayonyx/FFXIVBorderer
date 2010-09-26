@@ -1,4 +1,4 @@
-﻿Build started 9/7/2010 9:31:47 PM.
+﻿Build started 9/22/2010 9:42:10 PM.
      1>Project "D:\FFXIV\FFXIVBorderer\Launcher\Launcher.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Release\Launcher.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -29,4 +29,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.71
+Time Elapsed 00:00:03.96

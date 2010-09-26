@@ -1,8 +1,6 @@
-﻿Build started 9/5/2010 5:01:33 PM.
-     1>Project "D:\FFXIV\FFXIVBorderer\Config\Config.vcxproj" on node 3 (rebuild target(s)).
-     1>_PrepareForClean:
-         Deleting file "Release\Config.lastbuildstate".
-       InitializeBuildStatus:
+﻿Build started 9/8/2010 7:04:26 AM.
+     1>Project "D:\FFXIV\FFXIVBorderer\Config\Config.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
          Creating "Release\Config.unsuccessfulbuild" because "AlwaysCreate" was specified.
        GenerateTargetFrameworkMonikerAttribute:
        Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
@@ -32,8 +30,8 @@
        FinalizeBuildStatus:
          Deleting file "Release\Config.unsuccessfulbuild".
          Touching "Release\Config.lastbuildstate".
-     1>Done Building Project "D:\FFXIV\FFXIVBorderer\Config\Config.vcxproj" (rebuild target(s)).
+     1>Done Building Project "D:\FFXIV\FFXIVBorderer\Config\Config.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.89
+Time Elapsed 00:00:04.10
